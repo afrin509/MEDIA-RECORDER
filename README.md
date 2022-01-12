@@ -10,8 +10,6 @@ Features
 
 3.With the help of canvas it captures the image.
 
-4.The application also has the feature of screen recording.
-
 5.All the media will be saved in the gallery with the file name provided by you.
 
 6.The media can be downloaded and deleted from the gallery.
